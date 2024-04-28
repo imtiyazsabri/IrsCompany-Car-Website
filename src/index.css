@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    overscroll-behavior-x:none;
+    overscroll-behavior-y:none;
+}
